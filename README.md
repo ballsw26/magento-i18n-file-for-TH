@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Magento file to i18N for thailand
 
 In the project directory, you can run:
