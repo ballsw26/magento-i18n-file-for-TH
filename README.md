@@ -1,0 +1,1 @@
+# magento-i18n-file-for-TH
