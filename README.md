@@ -1,5 +1,15 @@
 ## Magento file to i18N for thailand
 
+*** Important ***
+1.Go to Stores Config > GENERAL > General And go Locale Options Tab
+2.Change Locale With your Scope For i18n
+Example
+ Scope Default Config set Locale = English ( US ) i18n = en_US.csv
+ Scope TH Config set Locale or anything your use = Thailand i18n = th_TH.csv
+But your don't know code file for i18n run php bin/magento info:language:list and find code for csv
+when your choose locale finish run php bin/magento setup:static-content:deploy en_EN th_TH .... anything your want
+Hope help for your.
+
 In the project directory, you can run:
 
 ### download file and move file to  root magento/app/design/frontend/Vendor/module/i18n/
